@@ -1,1 +1,3 @@
-# harker-mun.github.io
+# Harker MUN site
+
+Developed by Krish Maniar
