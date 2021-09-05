@@ -4031,7 +4031,6 @@ ul {
 .special_cource .single_special_cource .special_cource_text {
   padding: 35px 35px 40px;
   border: 1px solid #edeff2;
-  border-top: 0px;
 }
 
 @media (max-width: 576px) {
@@ -7380,3 +7379,16 @@ h6 {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+.single_special_cource {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 992px) {
+  .mobile-event-margin-sm {
+    margin-bottom: 16px;
+  }
+  .mobile-event-reverse-order {
+    flex-direction: column-reverse;
+  }
+}
